@@ -4,10 +4,10 @@ import requests
 import tweepy
 import time
 
-access_token = '1591508720218947586-2A21xbjnHl8e8zMMMF7kslBrWxcdbv'
-access_token_secret = '8ei7SP35gzoaplaVaiHLxg7edrPYZfQSjZ0uVLWZftM0M'
-consumer_key = 'G0QSIOLKStGJ1o83AtdPeqdqh'
-consumer_secret = 'JlPAN7epmNpDPYIsxUhrtLEQZ63eEPZkWoeC4jXNwNtJ2BLYVj'
+access_token = 'X'
+access_token_secret = 'Y'
+consumer_key = 'Z'
+consumer_secret = 'ZA'
 
 
 def setup_connection_reddit(subreddit):
